@@ -5,7 +5,7 @@ Program în Python care simulează un an de activitate al unei firme
 
 ## Ce face
 
-- generează aleator numărul de clienți pentru fiecare lună
+- generează aleatoriu numărul de clienți pentru fiecare lună
 - calculează venitul și profitul lunar și anual
 - numără lunile pe profit, pe pierdere și pe zero
 - găsește luna cu cei mai mulți și cu cei mai puțini clienți
